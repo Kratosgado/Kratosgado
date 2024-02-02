@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Prince Mbeah Essilfie
+- An AI/ML Enthusiast
 - 👀 I’m interested in Physics and Technology
 - 🌱 I’m currently reading Bsc Computer Science in KNUST
 - 📫 How to reach me...
