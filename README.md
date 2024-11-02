@@ -1,5 +1,5 @@
 # 💫 About Me:
-* I'm currently learning ML/AI<br>* likes Physics and Mathematics<br>* Portfolio website: https://Kratosgado.github.io<br>* email: mbeahessilfieprince@gmail.com<br>* mobile: +233599239271
+likes Physics and Mathematics<br>* Portfolio website: https://Kratosgado.github.io<br>* email: mbeahessilfieprince@gmail.com<br>* mobile: +233599239271
 
 
 ## 🌐 Socials:
