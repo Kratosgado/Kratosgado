@@ -36,3 +36,25 @@ commit and push unclean repos.
 • Implementing SQLite in Rust
 
 • Augumented Audio Steganography methods using Reinforcement Learning
+
+# EXPERIENCE 📕📚
+## BACKEND DEVELOPER INTERN, ZOMUJO FOUNDATION 👷🏿‍♂️
+### October 2023 – January 2024 ⏲️
+Actively engaged in a team of 7 developing backend for health services. Technologies used
+includes TSOA, ExpressJs, NodeJS and I was given additional role as a Black Box tester.
+
+## BACKEND DEVELOPER PAID INTERN, ZOMUJO FOUNDATION 👷🏿‍♂️
+### October 2024 – December 2024 ⏲️
+Worked on Drug inventory management system for hospitals and Pharmacies. I personally worked on
+drugs and its categories, stock management and adjustments, and orders. Technologies used
+includes NestJs, Postgres, Sequelize, Swagger.
+
+
+## BACKEND DEVELOPER, FREELANCE, ZOMUJO FOUNDATION 👷🏿‍♂️
+### May 2024 – Present ⏲️
+Implemented cloud storage upload for images, labs, prescriptions and other files with google cloud API.
+Implemented Email and phone verification with Nodemailer and Cron Jobs.
+Designed and implemented prescription pdf generation with doctor’s signature using pdflib
+Implemented consultation, labs, future visits reminders, email, including in-app notifications with Server Sent
+Events. Migrating EMR project from TSOA to NestJs with Prisma ORM. Implemented live communication
+with WebSocket and Socket.io
