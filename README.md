@@ -1,8 +1,23 @@
 # PROFILE 🙍🏿 
-Full Stack Software Developer. Strong ownership mindset, proficient in backend
-technologies, excellent communication and collaboration skills, and a passion for learning and adapting to new
-technologies.
-[Portfolio](https://kratosgado.github.io)
+Full Stack Software Developer.
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kratosgado&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kratosgado&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kratosgado&theme=github_dark)
+
+## Programming Languages & Tools
+**Languages and Frameworks:** 
+<p><img src="https://skillicons.dev/icons?i=java,spring,python,flask,go,cpp,php,html,css,js,nodejs,express,cs,dotnet" /></p>
+
+**Databases:**
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" /></p>
+
+**Dev Tools:**
+<p><img src="https://skillicons.dev/icons?i=git,bash,github,firebase,supabase,postman,idea,vscode,visualstudio,eclipse" /></p>
+
 
 # ACHIEVEMENT ☺️
 Learnt and Created VS code assembly language compiler with TypeScript in two weeks which now
@@ -10,45 +25,16 @@ has over 13k+ installs. Profile: https://marketplace.visualstudio.com/publishers
 Created a pseudocode interpreter to aid level 100 students practice programming algorithm.
 
 # FAVOURITE PROJECTS 🤩
+- Pseudocode Interpreter: Custom interpreter to run pseudocode written in Rust
+- Pseudo Runner: VsCode extension that uses Psedocode Interpreter to run pseudocodes
+- MultiRoot.nvim: Neovim Extension to provide "VsCode-Like" features in neovim +more
 • Tabout Plugin: A Jetbrain’s Idea IDE plugin that functions as VS Code’s tabout plugin
 developed with Kotlin.
-
+• Rqlite - Sqlite implementation in Rust
 • Smart Traffic Light System: IoT project with C++/Arduino and Java/Android as 3rd year mini-
 project.
-
-• Pseudocode-Int-Lib: A NPM package written in Rust and WASM to enable web developers
-create pseudocode interpreter web apps.
-
 • Git Status: A rust cli application that automates git status checker and enables users to auto
 commit and push unclean repos.
-
-# CURRENT PROJECTS 🧐
-• Implementing SQLite in Rust
-
-# EXPERIENCE 📕📚
-
-## BACKEND ENGINEER, NSP, AMALITECH
-### November 2025 - Present
-
-## BACKEND DEVELOPER, FREELANCE, ZOMUJO FOUNDATION 👷🏿‍♂️
-### May 2024 – 2026 ⏲️
-Implemented cloud storage upload for images, labs, prescriptions and other files with google cloud API.
-Implemented Email and phone verification with Nodemailer and Cron Jobs.
-Designed and implemented prescription pdf generation with doctor’s signature using pdflib
-Implemented consultation, labs, future visits reminders, email, including in-app notifications with Server Sent
-Events. Migrating EMR project from TSOA to NestJs with Prisma ORM. Implemented live communication
-with WebSocket and Socket.io
-
-## BACKEND DEVELOPER PAID INTERN, ZOMUJO FOUNDATION 👷🏿‍♂️
-### October 2024 – December 2024 ⏲️
-Worked on Drug inventory management system for hospitals and Pharmacies. I personally worked on
-drugs and its categories, stock management and adjustments, and orders. Technologies used
-includes NestJs, Postgres, Sequelize, Swagger.
-
-## BACKEND DEVELOPER INTERN, ZOMUJO FOUNDATION 👷🏿‍♂️
-### October 2023 – January 2024 ⏲️
-Actively engaged in a team of 7 developing backend for health services. Technologies used
-includes TSOA, ExpressJs, NodeJS and I was given additional role as a Black Box tester.
 
 
 # 📊 GitHub Stats:
