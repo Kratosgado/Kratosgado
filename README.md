@@ -10,13 +10,13 @@ Full Stack Software Developer.
 
 ## Programming Languages & Tools
 **Languages and Frameworks:** 
-<p><img src="https://skillicons.dev/icons?i=java,spring,python,flask,go,cpp,php,html,css,js,nodejs,express,cs,dotnet" /></p>
+<p><img src="https://skillicons.dev/icons?i=rust,typescript,java,spring,nestjs,python,cpp,php,vue,nuxt,nodejs,express" /></p>
 
 **Databases:**
 <p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" /></p>
 
 **Dev Tools:**
-<p><img src="https://skillicons.dev/icons?i=git,bash,github,firebase,supabase,postman,idea,vscode,visualstudio,eclipse" /></p>
+<p><img src="https://skillicons.dev/icons?i=git,bash,github,firebase,supabase,postman,neovim,idea,vscode," /></p>
 
 
 # ACHIEVEMENT ☺️
@@ -41,7 +41,3 @@ commit and push unclean repos.
 ![](https://github-readme-stats.vercel.app/api?username=Kratosgado&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kratosgado&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kratosgado&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kratosgado&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
