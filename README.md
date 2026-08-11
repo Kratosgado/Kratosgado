@@ -10,13 +10,13 @@ Full Stack Software Developer.
 
 ## Programming Languages & Tools
 **Languages and Frameworks:** 
-<p><img src="https://skillicons.dev/icons?i=rust,typescript,java,spring,nestjs,python,cpp,php,vue,nuxt,nodejs,express" /></p>
+<p><img src="https://skillicons.dev/icons?i=rust,typescript,kotlin,java,spring,nestjs,python,cpp,php,vue,nuxt,nodejs,express,graphql" /></p>
 
 **Databases:**
-<p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" /></p>
+<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis" /></p>
 
 **Dev Tools:**
-<p><img src="https://skillicons.dev/icons?i=git,bash,github,firebase,supabase,postman,neovim,idea,vscode," /></p>
+<p><img src="https://skillicons.dev/icons?i=git,bash,github,postman,neovim,idea,vscode," /></p>
 
 
 # ACHIEVEMENT ☺️
